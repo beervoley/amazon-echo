@@ -1,4 +1,6 @@
-{
+// Basic scheme for your functions. Structure -> intent : name of func, slots : varName, varType
+// Have to be downloaded to developer.amazon.com in your skill
+{ 
   "intents":
     [
         {
@@ -10,6 +12,15 @@
                 "type" : "LIST_OF_MOODS"
                 }
             ]
+        }, {
+          "intent" : "whatIsYourName",
+          "slots":
+         [
+           {
+             "name" : "nickname",
+             "type" : "AMAZON.US_FIRST_NAME"
+           }
+         ]
         }, {
             "intent": "whatIsMyTempIntent"
             }, {
