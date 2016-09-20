@@ -1,3 +1,6 @@
+//  Sample utterances for your skill. It tells echo what it can hear and how to react.
+// Structure: funcName text {variable}
+
 MyTempIntent my temperature is {newTemp}
 MyMoodIntent my mood is {mood}
 MyMoodIntent {mood}
