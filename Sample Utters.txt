@@ -1,0 +1,10 @@
+MyTempIntent my temperature is {newTemp}
+MyMoodIntent my mood is {mood}
+MyMoodIntent {mood}
+MyTempIntent {newTemp}
+AMAZON.StopIntent shut up
+AMAZON.StopIntent I feel bad today
+ifHungry {hunger}
+whatIsYourName my name is {nickname}
+whatIsYourName I'm {nickname}
+whatIsYourName {nickname}
