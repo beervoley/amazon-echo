@@ -1,5 +1,5 @@
 # amazon-echo
-inside you will find code for a skill for amazon echo. This skill asks patient in a hospital some questions, then put them in .txt file.
+Inside you will find code for a skill for amazon echo. This skill asks patient in a hospital some questions, then put them in .txt file.
 
 To work with this you will have to install flask ask.
 
