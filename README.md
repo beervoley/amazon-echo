@@ -1,9 +1,19 @@
 # amazon-echo
-Inside you will find code for a skill for amazon echo. This skill asks patient in a hospital some questions, then put them in .txt file.
 
-To work with this you will have to install flask ask.
+Amazon-echo project is an interactive voice UI application that asks and records information of the patients without the need of the third party.
 
-To install flask-ask call: pip install flask-ask
+# Installation
+
+## Required libraries
+To work with the project, you need to install flash-ask and ngrok.
+
+User your package management system to install flask-ask. <br/>
+```pip install flask-ask```
+
+Install ngrok: <br/>
+`https://ngrok.com/`
+
+## How to use
 
 You will also have to expand your local server to the internet for skill to work.
 
