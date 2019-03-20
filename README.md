@@ -1,5 +1,13 @@
 # amazon-echo
-Inside you will find code for a skill for amazon echo. This skill asks patient in a hospital some questions, then put them in .txt file.
+
+Amazon-echo project is an interactive voice UI application that asks and records information of the patients without the need of the third party.
+
+# Installation
+
+## Required libraries
+
+## How to use
+
 
 To work with this you will have to install flask ask.
 
