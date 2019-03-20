@@ -7,10 +7,10 @@ Amazon-echo project is an interactive voice UI application that asks and records
 ## Required libraries
 To work with the project, you need to install flash-ask and ngrok.
 
-User your package management system to install flask-ask.
+User your package management system to install flask-ask. <br/>
 ```pip install flask-ask```
 
-Install ngrok:
+Install ngrok: <br/>
 `https://ngrok.com/`
 
 ## How to use
