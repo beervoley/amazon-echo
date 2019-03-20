@@ -15,19 +15,17 @@ Install ngrok: <br/>
 
 ## How to use
 
-You will also have to expand your local server to the internet for skill to work.
+1. Connect the local server to the internet.
 
-You will need to install ngrok: https://ngrok.com/
+2. Upload Scheme, Simple Utters and ngrok address from `developer.amazon.com` to the application.
 
-You will also have to upload Scheme and Simple Utters and ngrok adress on developer.amazon.com into your skill.
+3. Execute the Python file in the project.
 
-After that you can run python file.
+4. Then you have to run ngrok: go to the repository where ngrok is and then run : ./ngrok http 5000
 
-Then you have to run ngrok: go to the repository where ngrok is and then run : ./ngrok http 5000
+5. It will run a server and retranslate your localhost(python) to it. By this, your echo will be able to talk to the amazon server.
 
-It will run a server and retranslate your localhost(python) to it. By this, your echo will be able to talk to the amazon server.
-
-Then just simply turn on your echo and call the invocation name you put in the developer.amazon.com
+6. Then just simply turn on your echo and call the invocation name you put in the developer.amazon.com
 
 Program will save all the information in the text file which path is included in main.py
 
