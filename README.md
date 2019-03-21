@@ -21,12 +21,12 @@ Install ngrok: <br/>
 
 3. Execute the Python file in the project.
 
-4. Then you have to run ngrok: go to the repository where ngrok is and then run : ./ngrok http 5000
+4. Navigate to ngrok repository and run ```./ngrok http 5000```
 
-5. It will run a server and retranslate your localhost(python) to it. By this, your echo will be able to talk to the amazon server.
+5. ngrok server will translate the Python localhost. By running ngrok server, the application can interact with Amazon server.
 
-6. Then just simply turn on your echo and call the invocation name you put in the developer.amazon.com
+6. Turn on your echo and call the invocation name that was added in the developer.amazon.com
 
 Program will save all the information in the text file which path is included in main.py
 
-That's it! Enjoy your speaking thing.
+Enjoy using the application.
